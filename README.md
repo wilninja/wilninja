@@ -39,15 +39,19 @@ TEAM LEAD || SENIOR FRONT-END DEV
 #### Team Lead & Senior Front-End Dev 
 > In fringilla justo id massa ullamcorper, in mattis massa congue. Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse eu purus porttitor, ultrices ante eget, condimentum velit.
 >
-> August 2018 to Octorber 2022 
+> August 2018 - Octorber 2022 
 
 #### Senior Front-End Dev
-> Pellentesque sed luctus purus. Duis egestas velit quis dolor suscipit, non pharetra purus porta. Nam pretium at enim ut sollicitudin. Nam id tincidunt magna. Donec fringilla viverra enim in tempus. Sed congue risus a tellus porttitor, et fringilla velit placerat. Vivamus nec posuere mi. Ut vel luctus nisi, eu scelerisque purus. 
+> Pellentesque sed luctus purus. Duis egestas velit quis dolor suscipit, non pharetra purus porta. Nam pretium at enim ut sollicitudin. Nam id tincidunt magna. Donec fringilla viverra enim in tempus. Sed congue risus a tellus porttitor, et fringilla velit placerat. Vivamus nec posuere mi. Ut vel luctus nisi, eu scelerisque purus.
+>
+> December 2012 - July 2018
 
 #### Intermediate Full-Stack Developer & Graphic Designer
 > Integer sit amet blandit tortor. Duis dolor ex, vestibulum in eros facilisis, accumsan auctor turpis. Sed elementum semper sem sed facilisis. Nulla non odio nec tortor cursus tempus mattis vel dolor.
 >
 > Suspendisse sollicitudin dui sit amet nunc iaculis vehicula. Proin varius sagittis tempor.
+>
+> July 2006 - November 2012
 
 ## Fun Facts
 > **Competitive**:  
