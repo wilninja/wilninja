@@ -23,7 +23,7 @@ TEAM LEAD || SENIOR FRONT-END DEV
 ## Experience
 > [LinkedIn]
 
-##### Team Lean & Senior Front-End Dev
+##### Team Lead & Senior Front-End Dev
 > In fringilla justo id massa ullamcorper, in mattis massa congue. Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse eu purus porttitor, ultrices ante eget, condimentum velit. 
 
 ##### Senior Front-End Dev
