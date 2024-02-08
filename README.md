@@ -40,7 +40,7 @@ TEAM LEAD || SENIOR FRONT-END DEV
 > ![Philippines](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/ph.png "Tagalog") Tagalog
 
 ## Experience
-> [LinkedIn]
+> ![Static Badge](https://img.shields.io/badge/LinkedIn-%230A66C2?logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fwilbertbarraquio%2F)
 
 #### Team Lead & Senior Front-End Dev 
 > In fringilla justo id massa ullamcorper, in mattis massa congue. Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse eu purus porttitor, ultrices ante eget, condimentum velit.
@@ -64,7 +64,7 @@ TEAM LEAD || SENIOR FRONT-END DEV
 > :gun: Nerf, :car: Go-Kart, :8ball: Billiard, :soccer: Fooseball, :crown: Chess
 
 
-[LinkedIn]: <https://www.linkedin.com/in/wilbertbarraquio/>
+
 
 <!--
 **wilninja/wilninja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
