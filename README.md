@@ -3,7 +3,8 @@ TEAM LEAD || SENIOR FRONT-END DEV
 
 ## Tech Stack
 #### Front-End
-> Vue, ReactJS, Svelte, JavaScript, SASS, LESS, CSS, HTML
+> Vue, ReactJS, Svelte, JavaScript, SASS, LESS, CSS, HTML  
+> NuxtJS, NextJS, ExpressJS, Ionic, jQuery
 
 #### Back-End
 > PHP, MongoDB, MySQL, Laravel, Python
@@ -12,13 +13,15 @@ TEAM LEAD || SENIOR FRONT-END DEV
 > Jest, Cypress
 
 #### Design
-> Adobe Suite, Photography, Videography
+> Adobe Suite, :camera: Photography, :video_camera: Videography
 
-#### Misc
-> OKR, KPI, Marketing
+#### Knowledge in...
+> OKR, KPI, Marketing, UI/UX Design, Team Management
 
 #### Fluent in...
-> English, French, Tagalog
+> ![Canada](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/ca.png "English") English  
+> ![France](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/fr.png "French") French  
+> ![Philippines](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/ph.png "Tagalog") Tagalog
 
 ## Experience
 > [LinkedIn]
@@ -33,6 +36,10 @@ TEAM LEAD || SENIOR FRONT-END DEV
 > Integer sit amet blandit tortor. Duis dolor ex, vestibulum in eros facilisis, accumsan auctor turpis. Sed elementum semper sem sed facilisis. Nulla non odio nec tortor cursus tempus mattis vel dolor.
 >
 > Suspendisse sollicitudin dui sit amet nunc iaculis vehicula. Proin varius sagittis tempor.
+
+## Fun Facts
+> **Competitive**:  
+> :gun: Nerf, :car: Go-Kart, :8ball: Billiard, :soccer: Fooseball, :crown: Chess
 
 
 [LinkedIn]: <https://www.linkedin.com/in/wilbertbarraquio/>
