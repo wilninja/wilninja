@@ -6,7 +6,10 @@ TEAM LEAD || SENIOR FRONT-END DEV
 > Vue, ReactJS, Svelte, JavaScript, SASS, LESS, CSS, HTML
 
 #### Back-End
-> PHP, MongoDB, MySQL, Laravel
+> PHP, MongoDB, MySQL, Laravel, Python
+
+#### Testing
+> Jest, Cypress
 
 #### Design
 > Adobe Suite, Photography, Videography
