@@ -19,8 +19,9 @@ TEAM LEAD || SENIOR FRONT-END DEV
 > ![Static Badge](https://img.shields.io/badge/_-Webpack-4a4e69?logo=webpack&labelColor=212529) ![Static Badge](https://img.shields.io/badge/_-Prettier-4a4e69?logo=prettier&labelColor=212529) ![Static Badge](https://img.shields.io/badge/_-ESLint-4a4e69?logo=eslint&labelColor=212529)
 
 #### Back-End
-> ![Static Badge](https://img.shields.io/badge/_-NuxtJS-4a4e69?logo=nuxtdotjs&labelColor=212529) ![Static Badge](https://img.shields.io/badge/_-NextJS-4a4e69?logo=nextdotjs&labelColor=212529) ![Static Badge](https://img.shields.io/badge/_-Express-4a4e69?logo=express&labelColor=212529) ![Static Badge](https://img.shields.io/badge/_-JSON-4a4e69?logo=json&labelColor=212529)  
-> ![Static Badge](https://img.shields.io/badge/_-PHP-4a4e69?logo=php&logoColor=white&labelColor=212529) ![Static Badge](https://img.shields.io/badge/_-MongoDB-4a4e69?logo=mongodb&labelColor=212529) ![Static Badge](https://img.shields.io/badge/_-MySQL-4a4e69?logo=mysql&logoColor=white&labelColor=212529) ![Static Badge](https://img.shields.io/badge/_-Laravel-4a4e69?logo=laravel&labelColor=212529) ![Static Badge](https://img.shields.io/badge/_-Python-4a4e69?logo=python&labelColor=212529)  
+> ![Static Badge](https://img.shields.io/badge/_-NuxtJS-4a4e69?logo=nuxtdotjs&labelColor=212529) ![Static Badge](https://img.shields.io/badge/_-NextJS-4a4e69?logo=nextdotjs&labelColor=212529) ![Static Badge](https://img.shields.io/badge/_-Express-4a4e69?logo=express&labelColor=212529)  
+> ![Static Badge](https://img.shields.io/badge/_-MongoDB-4a4e69?logo=mongodb&labelColor=212529) ![Static Badge](https://img.shields.io/badge/_-MySQL-4a4e69?logo=mysql&logoColor=white&labelColor=212529) ![Static Badge](https://img.shields.io/badge/_-JSON-4a4e69?logo=json&labelColor=212529)  
+> ![Static Badge](https://img.shields.io/badge/_-PHP-4a4e69?logo=php&logoColor=white&labelColor=212529) ![Static Badge](https://img.shields.io/badge/_-Laravel-4a4e69?logo=laravel&labelColor=212529) ![Static Badge](https://img.shields.io/badge/_-Python-4a4e69?logo=python&labelColor=212529)  
 
 
 #### Testing
