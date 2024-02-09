@@ -70,6 +70,15 @@ TEAM LEAD || SENIOR FRONT-END DEV
 > **Competitive**:  
 > :gun: Nerf, :car: Go-Kart, :8ball: Billiard, :soccer: Fooseball, :crown: Chess
 
+> **Social**:  
+> ![Static Badge](https://img.shields.io/badge/SeizedMomentz-eb6424?logo=instagram&logoColor=white&labelColor=212529&link=https%3A%2F%2Fwww.instagram.com%2Fseizedmomentz%2F)  
+> ![Static Badge](https://img.shields.io/badge/RandomActsOfWil-eb6424?logo=instagram&logoColor=white&labelColor=212529&link=https%3A%2F%2Fwww.instagram.com%2Frandomactsofwil%2F)  
+> ![Static Badge](https://img.shields.io/badge/RandomActsOfWil-eb6424?logo=youtube&logoColor=white&labelColor=212529&link=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCzibG6NY5dd4SwDTHQFp65A)
+
+
+
+
+
 
 
 
