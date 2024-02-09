@@ -24,7 +24,7 @@ TEAM LEAD || SENIOR FRONT-END DEV
 
 
 #### Testing
-> ![Static Badge](https://img.shields.io/badge/_-Jest-4a4e69?logo=jest&labelColor=212529&logoColor=C21325) ![Static Badge](https://img.shields.io/badge/_-Cypress-4a4e69?logo=cypress&labelColor=212529)
+> ![Static Badge](https://img.shields.io/badge/_-Jest-4a4e69?logo=jest&labelColor=212529&logoColor=C21325) ![Static Badge](https://img.shields.io/badge/_-Cypress-4a4e69?logo=cypress&labelColor=212529)  
 > ![Static Badge](https://img.shields.io/badge/_-Lighthouse-4a4e69?logo=lighthouse&labelColor=212529) ![Static Badge](https://img.shields.io/badge/_-Selenium-4a4e69?logo=selenium&labelColor=212529)
 
 #### Tools
