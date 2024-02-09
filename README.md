@@ -4,7 +4,7 @@
 # Wil Ninja
 TEAM LEAD || SENIOR FRONT-END DEV  
 > - 16+ Years of experience in web development  
-> - Years of lead experience; 13 employees within 3 teamsin a given time  
+> - Years of lead experience; 13 employees within 3 teams in a given time  
 > - Worked for some of the largest companies/projects in Canada, and of the world  
 > - Great knowledge of leadership, management (automation in JIRA), and business metrics (OKR, KPI)  
 > - Vast knowledge of different tech stack  
