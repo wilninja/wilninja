@@ -1,5 +1,6 @@
 > [!NOTE]
-> I currently do not have any personal projects open for public viewing
+> [![Static Badge](https://img.shields.io/badge/Demo-VueJS_v3.2-f48c06)]([https://www.linkedin.com/in/wilbertbarraquio/](https://github.com/wilninja/demo-vue3))  
+> ![Static Badge](https://img.shields.io/badge/Demo-ReactJS_v18-e85d04) <sup>(Coming Soon)</sup>
 
 # Wil Ninja
 TEAM LEAD || SENIOR FRONT-END DEV  
@@ -74,28 +75,4 @@ TEAM LEAD || SENIOR FRONT-END DEV
 > [![Static Badge](https://img.shields.io/badge/RandomActsOfWil-eb6424?logo=instagram&logoColor=white&labelColor=212529)](https://www.instagram.com/randomactsofwil/)  
 > [![Static Badge](https://img.shields.io/badge/SeizedMomentz-eb6424?logo=instagram&logoColor=white&labelColor=212529)](https://www.instagram.com/seizedmomentz/)  
 > [![Static Badge](https://img.shields.io/badge/RandomActsOfWil-eb6424?logo=youtube&logoColor=white&labelColor=212529)](https://www.youtube.com/@RandomActsOfWil)
--->
-
-
-
-
-
-
-
-<!--
-**wilninja/wilninja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 -->
