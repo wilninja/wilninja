@@ -1,5 +1,5 @@
 > [!NOTE]
-> [![Static Badge](https://img.shields.io/badge/Demo-VueJS_v3.2-f48c06)]([https://www.linkedin.com/in/wilbertbarraquio/](https://github.com/wilninja/demo-vue3))  
+> [![Static Badge](https://img.shields.io/badge/Demo-VueJS_v3.2-f48c06)](https://github.com/wilninja/demo-vue3)  
 > ![Static Badge](https://img.shields.io/badge/Demo-ReactJS_v18-e85d04) <sup>(Coming Soon)</sup>
 
 # Wil Ninja
