@@ -10,7 +10,7 @@ TEAM LEAD || SENIOR FRONT-END DEV
 > - Great knowledge of leadership, management (automation in JIRA), and business metrics (OKR, KPI)  
 > - Vast knowledge of different tech stack  
 > - Always learning, and fast learner  
-> - “Lazy” dev; I’ll find ways to automate mundane/repetitive tasks  
+> - Love to find ways to automate mundane/repetitive tasks 
 
 ## Tech Stack
 #### Front-End
